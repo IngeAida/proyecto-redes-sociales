@@ -8,6 +8,8 @@
       {
         "frame-title": "off"
       }
-    ]
+    ],
+    "detect-css-reflows/composite": "off",
+    "disown-opener": "off"
   }
 }
